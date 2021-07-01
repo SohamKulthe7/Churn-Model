@@ -1,0 +1,2 @@
+# Churn-Model
+Customer Churn is one of the most important and challenging problems for businesses such as Credit Card companies, cable service providers, SASS and telecommunication companies worldwide. For single most important reason that cost of acquiring a new customer is far greater than cost of retaining an existing customer. Even though it is not the most fun to look at, customer churn metrics can help businesses improve customer retention.
